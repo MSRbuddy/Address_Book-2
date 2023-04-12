@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\bin\Debug\net6.0\IAddressBookSystem.exe
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\bin\Debug\net6.0\IAddressBookSystem.deps.json
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\bin\Debug\net6.0\IAddressBookSystem.runtimeconfig.json
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\bin\Debug\net6.0\IAddressBookSystem.dll
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\bin\Debug\net6.0\IAddressBookSystem.pdb
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.AssemblyInfo.cs
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.dll
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\refint\IAddressBookSystem.dll
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.pdb
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\IAddressBookSystem.genruntimeconfig.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\ref\IAddressBookSystem.dll

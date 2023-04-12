@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\ADBook-UC8.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\ADBook-UC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\ADBook-UC8.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\ADBook-UC8.AssemblyInfo.cs
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC8\ADBook-UC8\obj\Debug\net6.0\ADBook-UC8.csproj.CoreCompileInputs.cache
