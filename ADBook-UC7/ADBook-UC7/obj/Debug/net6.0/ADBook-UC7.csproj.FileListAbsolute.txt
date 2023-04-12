@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.AssemblyInfo.cs
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\bin\Debug\net6.0\ADBook-UC7.exe
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\bin\Debug\net6.0\ADBook-UC7.deps.json
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\bin\Debug\net6.0\ADBook-UC7.runtimeconfig.json
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\bin\Debug\net6.0\ADBook-UC7.dll
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\bin\Debug\net6.0\ADBook-UC7.pdb
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.dll
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\refint\ADBook-UC7.dll
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.pdb
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ADBook-UC7.genruntimeconfig.cache
+C:\Users\USER\source\repos\ADBook-Using-Collections\ADBook-Using-Collections\ADBook-UC7\ADBook-UC7\obj\Debug\net6.0\ref\ADBook-UC7.dll
